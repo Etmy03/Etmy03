@@ -11,7 +11,7 @@
 
 
 ### Explore My Work
-- **School Projects**: [View Repositories](https://github.com/Etmy03?tab=repositories&q=school)
+- **School Projects**: [View Repositories](https://github.com/Etmy03/school-projects/blob/main/README.md)
 <!--
 - [Portfolio Website](https://github.com/Etmy03/personal-portfolio)
 - **Cybersecurity**: [View Repositories](https://github.com/Etmy03?tab=repositories&q=cyber)

@@ -1,7 +1,7 @@
-## Hi, I'm Etmy Cabral Barbosa ✨✨
+# Hi, I'm Etmy Cabral Barbosa ✨✨
 
-## Projects I'm Currently Working On 🚀
-### 🌐 [DevOps Challenge 2025](https://github.com/Etmy03/devops-challenge-2025)
+### Projects I'm Currently Working On 🚀
+#### 🌐 [DevOps Challenge 2025](https://github.com/Etmy03/devops-challenge-2025)
 - **Kickoff Date**: January 6, 2025
 - Hands-on projects to build DevOps experience using:
   - **AWS** for cloud computing.
@@ -10,7 +10,7 @@
 - **Goal**: Build a strong DevOps portfolio while learning and collaborating with a supportive community.
 
 
-## Explore My Work
+### Explore My Work
 - **School Projects**: [View Repositories](https://github.com/Etmy03?tab=repositories&q=school)
 <!--
 - [Portfolio Website](https://github.com/Etmy03/personal-portfolio)
@@ -19,7 +19,7 @@
 - **Personal Projects**: [View Repositories](https://github.com/Etmy03?tab=repositories&q=personal)
 -->
 
-# About Me 👋
+## About Me 👋
 
 Hi there! I'm a **Computer Science student at the University of Maryland** with a passion for **cybersecurity** and a clear career goal: to one day become a **Chief Information Security Officer (CISO)**. 🚀
 

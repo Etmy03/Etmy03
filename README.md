@@ -19,7 +19,7 @@
 - **Personal Projects**: [View Repositories](https://github.com/Etmy03?tab=repositories&q=personal)
 -->
 
-### About Me 👋
+## About Me 👋
 
 Hi there! I'm a **Computer Science student at the University of Maryland** with a passion for **cybersecurity** and a clear career goal: to one day become a **Chief Information Security Officer (CISO)**. 🚀
 

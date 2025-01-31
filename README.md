@@ -2,7 +2,7 @@
 
 ### Projects I'm Currently Working On 🚀
 #### 🌐 [DevOps Challenge 2025](https://github.com/Etmy03/devops-challenge-2025)
-- **Kickoff Date**: January 6, 2025
+
 - Hands-on projects to build DevOps experience using:
   - **AWS** for cloud computing.
   - **GitHub** for version control and collaboration.

@@ -1,6 +1,6 @@
 # Hi, I'm Etmy Cabral Barbosa ✨✨
 
-```
+<!--
 ### Projects I'm Currently Working On 🚀
 #### 🌐 [DevOps Challenge 2025](https://github.com/Etmy03/devops-challenge-2025)
 
@@ -9,7 +9,7 @@
   - **GitHub** for version control and collaboration.
   - **NBA APIs** for real-world API integration.
 - **Goal**: Build a strong DevOps portfolio while learning and collaborating with a supportive community.
-```
+-->
 ### Explore My Work
 - **School Projects**: [View Repositories](https://github.com/Etmy03/school-projects/blob/main/README.md)
 <!--
